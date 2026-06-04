@@ -30,4 +30,10 @@ Live data from a WhatsApp Invoice Bot
 
 ![Analytics Output](output.png)
 ---
+
+## Charts
+
+![Customers](chart1_customers.png)
+![Products](chart2_products.png)
+![Trend](chart3_trend.png)
 Zeba Firdouse
