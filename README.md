@@ -26,6 +26,8 @@ Python · SQLite · SQL
 ## Database
 254 invoices · 22 customers · 30 products
 Live data from a WhatsApp Invoice Bot
+## Output
 
+![Analytics Output](output.png)
 ---
 Zeba Firdouse
